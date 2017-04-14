@@ -1,9 +1,14 @@
 ----------------------------------------------
-|      Hello, this is OPNsense %%CORE_ABI%%          |         @@@@@@@@@@@@@@@
-|                                            |        @@@@         @@@@
-| Website:	https://opnsense.org/        |         @@@\\\   ///@@@
-| Handbook:	https://docs.opnsense.org/   |       ))))))))   ((((((((
-| Forums:	https://forum.opnsense.org/  |         @@@///   \\\@@@
-| Lists:	https://lists.opnsense.org/  |        @@@@         @@@@
-| Code:		https://github.com/opnsense  |         @@@@@@@@@@@@@@@
-----------------------------------------------
+
+|      Hello, this is WITWall v 1.0          |         _____________
+|                                            |     /\_/             \_/\
+|  WITWall is a firewall created as a fork   |     \                   /
+|  of OPNSense. It is open source and        |     /                   \
+|  modular. Feel free to add any additional  |    |    __          __   |
+
+|  functionality or features you want!       |    |   \___\      /___/  |
+|                                            |     \                   / ----------------------------------------------
+      \      __ __      /                 				             \__  \_   _/  __/
+         v. 1.0 "Lawful Leopard"                        \___| |___/ 
+							   _____
+							   \___/ 
